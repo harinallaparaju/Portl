@@ -56,7 +56,6 @@ Building an MVP (Minimal Viable Product)
 - Visual Studio Code
 - Postman
 - Figma
-- Draw.io
 
 ---
 ####  📌 Welcome to, Branding of Portl.

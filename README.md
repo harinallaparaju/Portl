@@ -62,6 +62,7 @@ Building an MVP (Minimal Viable Product)
 ####  📌 Welcome to, Branding of Portl.
 
 ![](https://miro.medium.com/v2/resize:fit:2000/1*YDTBqXuOthitrhWUeLTc9Q.jpeg)
+![](portl_.png)
 
 ### Portl.
 building the *future* of HR.

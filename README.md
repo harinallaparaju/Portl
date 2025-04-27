@@ -1,6 +1,6 @@
 ## Portl
 
-![](_portl_.png)
+![](_portl.png)
 
 #### 📌 Core Features
 Building an MVP (Minimal Viable Product)
